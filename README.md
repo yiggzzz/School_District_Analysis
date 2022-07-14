@@ -96,7 +96,7 @@ The above chart shows Thomas High School is in school size bin Medium (1000-2000
 There were no changes in District type schools.
 
 * Conclusion: All scores by (school spending, school size, school type) were all impacted/dropped 
-* due to the removal of Thomas High School 9th grade math and reading scores.
+due to the removal of Thomas High School 9th grade math and reading scores.
 
 ### Outcomes of Challenge:
 * Open Jupyter Notebook files from local directories using a development environment.
