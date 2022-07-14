@@ -1,8 +1,8 @@
 # Pandas_School_District_Analysis
-## DESCRIPTION
+## Project Overview
 Analyzing and organizing data on student funding and students' standardized test scores to showcase trends and school performance.
 
-### SITUATION/TASK
+### Challenge Objectives
 * A high-level snapshot of the district's key metrics, presented in a table format
 * An overview of the key metrics for each school, presented in a table format
 * Tables presenting each of the following metrics:
