@@ -1,4 +1,4 @@
-# School_District_Analysis
+# Pandas_School_District_Analysis
 ## DESCRIPTION
 Analyzing and aggregating data on student funding and students standardized test scores to showcase trends and school performance.
 
